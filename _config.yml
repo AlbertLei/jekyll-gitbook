@@ -1,10 +1,10 @@
 # Configurations
-title:            Jekyll Gitbook
-longtitle:        Jekyll Gitbook
-author:           HE Tao
+title:            Albert Lei
+longtitle:        Albert Lei
+author:           Albert Lei
 email:            sighingnow@gmail.com
 description: >
-  Build Jekyll site with the GitBook style.
+  You can find my writings here.
 
 version:          1.0
 gitbook_version:  3.2.3
